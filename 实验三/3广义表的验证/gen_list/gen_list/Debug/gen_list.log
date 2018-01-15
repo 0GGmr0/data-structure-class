@@ -1,0 +1,4 @@
+﻿  TestGenList.cpp
+d:\c++\数据结构\实验三\3广义表的验证\gen_list\gen_list\testgenlist.cpp(9): warning C4101: “sta”: 未引用的局部变量
+  gen_list.vcxproj -> D:\C++\数据结构\实验三\3广义表的验证\gen_list\Debug\gen_list.exe
+  gen_list.vcxproj -> D:\C++\数据结构\实验三\3广义表的验证\gen_list\Debug\gen_list.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\c++\数据结构\研讨一\dictionary\dictionary\linklist.h(11): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+d:\c++\数据结构\研讨一\dictionary\dictionary\dictionary.h(140): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\数据结构\研讨一\dictionary\dictionary\main.cpp(254): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\数据结构\研讨一\dictionary\dictionary\main.cpp(268): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\数据结构\研讨一\dictionary\dictionary\main.cpp(273): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Dictionary.vcxproj -> D:\C++\数据结构\研讨一\Dictionary\x64\Debug\Dictionary.exe
+  Dictionary.vcxproj -> D:\C++\数据结构\研讨一\Dictionary\x64\Debug\Dictionary.pdb (Partial PDB)

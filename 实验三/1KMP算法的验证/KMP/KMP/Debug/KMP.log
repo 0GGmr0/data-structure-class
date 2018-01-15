@@ -1,0 +1,8 @@
+﻿  TestKMP.cpp
+d:\c++\kmp\kmp\string.h(146): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\kmp\kmp\string.h(166): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\kmp\kmp\string.h(178): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\kmp\kmp\string.h(185): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\kmp\kmp\string.h(198): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> D:\C++\KMP\Debug\KMP.exe
+  KMP.vcxproj -> D:\C++\KMP\Debug\KMP.pdb (Partial PDB)

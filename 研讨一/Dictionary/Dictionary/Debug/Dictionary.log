@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\c++\数据结构\研讨一\dictionary\dictionary\linklist.h(11): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+d:\c++\数据结构\研讨一\dictionary\dictionary\main.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\数据结构\研讨一\dictionary\dictionary\main.cpp(290): warning C4018: “<”: 有符号/无符号不匹配
+  Dictionary.vcxproj -> D:\C++\数据结构\研讨一\Dictionary\Debug\Dictionary.exe
+  Dictionary.vcxproj -> D:\C++\数据结构\研讨一\Dictionary\Debug\Dictionary.pdb (Partial PDB)

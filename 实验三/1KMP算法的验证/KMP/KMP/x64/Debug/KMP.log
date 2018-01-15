@@ -1,0 +1,10 @@
+﻿  TestKMP.cpp
+d:\c++\kmp\kmp\string.h(73): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(81): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(115): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(166): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(179): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(184): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\kmp\kmp\string.h(199): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KMP.vcxproj -> D:\C++\KMP\x64\Debug\KMP.exe
+  KMP.vcxproj -> D:\C++\KMP\x64\Debug\KMP.pdb (Partial PDB)

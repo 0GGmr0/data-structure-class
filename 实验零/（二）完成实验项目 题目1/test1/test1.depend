@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513168323 source:d:\c++\（二）完成实验项目 题目1\test1\main.cpp
+	"Time.h"
+
+1513168321 d:\c++\（二）完成实验项目 题目1\test1\time.h
+	<iostream>
+
