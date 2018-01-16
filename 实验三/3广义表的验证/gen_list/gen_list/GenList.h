@@ -53,6 +53,7 @@ public:
 template <class ElemType>
 void GenList<ElemType>::GetTail()
 {
+	
 	GenListNode<ElemType> *p = head->tLink;
 	cout << "(";
 	if (IsEmpty() == true)
@@ -60,14 +61,23 @@ void GenList<ElemType>::GetTail()
 		cout << ")";
 		return;
 	}
-	while (p->tLink != NULL)
+	bool frist = true;
+	while (p != NULL)
 	{
+		if (frist)
+		{
+			frist = false;		// 第一个元素
+			p = p->tLink;
+			continue;
+		}
+		if (p->tag == ATOM)         	// 原子结点
+			cout << p->atom;
+		else	                     	// 表结点
+			ShowHelp(p->hLink);
+		if(p->tLink != NULL)
+			cout << ",";
 		p = p->tLink;
 	}
-	if (p->tag == ATOM)         	// 原子结点
-		cout << p->atom;
-	else	                     	// 表结点
-		ShowHelp(p->hLink);
 	cout << ")";						// 广义表以)结束
 	
 }
